@@ -72,6 +72,4 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-**License:**
-
-[MIT](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
